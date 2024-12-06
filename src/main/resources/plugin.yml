@@ -1,0 +1,8 @@
+name: MinecartSpeed
+main: com.vexthecoder.minecartspeed.MinecartSpeed
+version: 1.0
+api-version: 1.8
+commands:
+  minecartspeed:
+    description: Adjust the speed of minecarts.
+    usage: /minecartspeed [bps]
